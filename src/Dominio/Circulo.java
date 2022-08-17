@@ -2,7 +2,7 @@ package Dominio;
 
 public class Circulo {
 	private Double radio=0.0;
-<<<<<<< HEAD
+
 
 	public void x (){
 		
@@ -13,10 +13,5 @@ public class Circulo {
 
 	public void setRadio(Double radio) {
 		this.radio = radio;
-=======
-	
-	public void x (int i){
-		System.out.println("");
->>>>>>> nuevaRama
 	}
 }
